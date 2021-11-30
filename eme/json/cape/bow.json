@@ -1,6 +1,6 @@
 [
             {
-                "uuid": "Bigos892",
+                "uuid": "ExampleUUID",
                 "example-boolean-key": "true",
                 "example-string-key": "Ikr?",
                 "example-int-key": "1234"
