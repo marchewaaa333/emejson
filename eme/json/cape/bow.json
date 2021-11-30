@@ -1,1 +1,14 @@
-Bigos892
+[
+            {
+                "uuid": "ExampleUUID",
+                "example-boolean-key": "true",
+                "example-string-key": "Ikr?",
+                "example-int-key": "1234"
+            },
+            {
+                "uuid": "ExampleUUID2",
+                "example-boolean-key2": "true",
+                "example-string-key2": "Woooooah! No one will have carrot!",
+                "example-int-key2": "4321"
+            }
+        ]
